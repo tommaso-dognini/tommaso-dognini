@@ -3,9 +3,7 @@ I am a student at [Politecnico di Milano](https://www.polimi.it/) currently enro
 
 
 
-[Personal Website](https://tommasodognini.com/) \
-tommaso.dognini@gmail.com
-Linkedin
+[Personal Website](https://tommasodognini.com/)		-	tommaso.dognini@gmail.com 	-	[Linkedin](in/tommaso-dognini)
 
 ### Skills and Technical knowledge
 <!--
